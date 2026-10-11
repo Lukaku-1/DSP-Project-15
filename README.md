@@ -17,16 +17,15 @@ A Hardware based Dual Tone Multi-Frequency (DTMF) signal transmitter and receive
 * 1x 10W 4ohm speaker
 
 ## Receiver
-1x ESP32 Dev board
-1x INMP441 MEMS Mic Module
-1x O.96 inch OLED Display
+* 1x ESP32 Dev board
+* 1x INMP441 MEMS Mic Module
+* 1x O.96 inch OLED Display
 
 ## Miscellaneous
-Jumper Wires
-Breadboard
-Single core wire
-Protoboard
-
+* Jumper Wires
+* Breadboard
+* Single core wire
+* Protoboard
 
 ## Authors
 
