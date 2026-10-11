@@ -8,7 +8,7 @@ Done by Team 15 (Akul S Mohan, Rohann Subhash, Samil R, Sandeep Santhosh K)
 ## About
 A Hardware based Dual Tone Multi-Frequency (DTMF) signal transmitter and receiver implemented using ESP32. Filtering of noisy signal after transmission done using Goertzel Algorithm. Further details to be added
 
-## Componants 
+## Components 
 
 ## Transmitter
 1x ESP32 Dev board
