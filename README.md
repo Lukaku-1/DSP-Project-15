@@ -29,7 +29,10 @@ A Hardware based Dual Tone Multi-Frequency (DTMF) signal transmitter and receive
 
 ## Authors
 
-Akul S Mohan &nbsp;&nbsp; Samil R &nbsp;&nbsp; Sandeep Santhosh K
+* Akul S Mohan
+* Rohann Subhash 
+* Samil R
+* Sandeep Santhosh K
 
 
 ## License
