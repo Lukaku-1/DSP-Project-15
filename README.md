@@ -10,22 +10,22 @@ A Hardware based Dual Tone Multi-Frequency (DTMF) signal transmitter and receive
 
 ## Components 
 
-## Transmitter
-* 1x ESP32 Dev board
-* 1x MAX98357A Amplifier
-* 1x 4x4 Matrix Keypad
-* 1x 10W 4ohm speaker
+- Transmitter
+  * 1x ESP32 Dev board
+  * 1x MAX98357A Amplifier
+  * 1x 4x4 Matrix Keypad
+  * 1x 10W 4ohm speaker
 
-## Receiver
-* 1x ESP32 Dev board
-* 1x INMP441 MEMS Mic Module
-* 1x O.96 inch OLED Display
+- Receiver
+  * 1x ESP32 Dev board
+  * 1x INMP441 MEMS Mic Module
+  * 1x O.96 inch OLED Display
 
-## Miscellaneous
-* Jumper Wires
-* Breadboard
-* Single core wire
-* Protoboard
+- Miscellaneous
+  * Jumper Wires
+  * Breadboard
+  * Single core wire
+  * Protoboard
 
 ## Authors
 
